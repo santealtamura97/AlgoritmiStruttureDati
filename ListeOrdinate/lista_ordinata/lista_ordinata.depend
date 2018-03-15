@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1509437757 source:c:\users\sante.desktop-djcogc4\desktop\lista_ordinata\main.cpp
+	"ordered_list.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+
+1509440297 c:\users\sante.desktop-djcogc4\desktop\lista_ordinata\ordered_list.h
+	"linear_list.h"
+
+1509109625 c:\users\sante.desktop-djcogc4\desktop\lista_ordinata\linear_list.h
+	<iostream>
+
+1509727472 source:c:\users\sante.desktop-djcogc4\desktop\lab 5\lista_ordinata\main.cpp
+	"ordered_list.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+
+1509727492 c:\users\sante.desktop-djcogc4\desktop\lab 5\lista_ordinata\ordered_list.h
+	"linear_list.h"
+	<stdlib.h>
+	<string>
+
+1509642633 c:\users\sante.desktop-djcogc4\desktop\lab 5\lista_ordinata\linear_list.h
+	<iostream>
+
+1516914606 source:c:\users\sante.desktop-djcogc4\desktop\università\algoritmi e strutture dati\esercitazioni in lab svolte\lab 5\lista_ordinata\main.cpp
+	"ordered_list.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+
+1516914724 c:\users\sante.desktop-djcogc4\desktop\università\algoritmi e strutture dati\esercitazioni in lab svolte\lab 5\lista_ordinata\ordered_list.h
+	"linear_list.h"
+	<stdlib.h>
+	<string>
+
+1509642633 c:\users\sante.desktop-djcogc4\desktop\università\algoritmi e strutture dati\esercitazioni in lab svolte\lab 5\lista_ordinata\linear_list.h
+	<iostream>
+
+1517139363 source:c:\users\sante.desktop-djcogc4\desktop\università\algoritmi e strutture dati\esercitazioni in lab svolte\listeordinate\lista_ordinata\main.cpp
+	"ordered_list.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+
+1517139530 c:\users\sante.desktop-djcogc4\desktop\università\algoritmi e strutture dati\esercitazioni in lab svolte\listeordinate\lista_ordinata\ordered_list.h
+	"linear_list.h"
+	<stdlib.h>
+	<string>
+
+1509642633 c:\users\sante.desktop-djcogc4\desktop\università\algoritmi e strutture dati\esercitazioni in lab svolte\listeordinate\lista_ordinata\linear_list.h
+	<iostream>
+

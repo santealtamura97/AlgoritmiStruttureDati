@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1509100433 source:c:\users\sante.desktop-djcogc4\desktop\liste\main.cpp
+	<iostream>
+	"stdlib.h"
+	"list_vector.h"
+
+1509437579 c:\users\sante.desktop-djcogc4\desktop\liste\list_vector.h
+	"linear_list.h"
+
+1509098155 c:\users\sante.desktop-djcogc4\desktop\liste\linear_list.h
+	<iostream>
+
+1509641944 source:c:\users\sante.desktop-djcogc4\desktop\lab 5\lista\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	"list_vector.h"
+	"linear_list.h"
+
+1509639554 c:\users\sante.desktop-djcogc4\desktop\lab 5\lista\list_vector.h
+	"Linear_list.h"
+
+1509639581 c:\users\sante.desktop-djcogc4\desktop\lab 5\lista\linear_list.h
+	<iostream>
+
+1509641944 source:c:\users\sante.desktop-djcogc4\desktop\università\algoritmi e strutture dati\esercitazioni in lab svolte\lab 5\lista\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	"list_vector.h"
+	"linear_list.h"
+
+1509750346 c:\users\sante.desktop-djcogc4\desktop\università\algoritmi e strutture dati\esercitazioni in lab svolte\lab 5\lista\list_vector.h
+	"Linear_list.h"
+
+1509639581 c:\users\sante.desktop-djcogc4\desktop\università\algoritmi e strutture dati\esercitazioni in lab svolte\lab 5\lista\linear_list.h
+	<iostream>
+
+1509641946 source:e:\algoritmi e strutture dati\esercitazioni in lab svolte\listeordinate\lista\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	"list_vector.h"
+	"linear_list.h"
+
+1509750348 e:\algoritmi e strutture dati\esercitazioni in lab svolte\listeordinate\lista\list_vector.h
+	"Linear_list.h"
+
+1509639582 e:\algoritmi e strutture dati\esercitazioni in lab svolte\listeordinate\lista\linear_list.h
+	<iostream>
+
