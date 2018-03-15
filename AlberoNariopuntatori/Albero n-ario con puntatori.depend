@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1516904068 source:c:\users\sante.desktop-djcogc4\desktop\albero n-ario con puntatori\main.cpp
+	<iostream>
+	<stdlib.h>
+	"cella.h"
+	"alberoN.h"
+	"coda.h"
+
+1516874959 c:\users\sante.desktop-djcogc4\desktop\albero n-ario con puntatori\cella.h
+	<iostream>
+
+1516916694 c:\users\sante.desktop-djcogc4\desktop\albero n-ario con puntatori\alberon.h
+	"cella.h"
+	"coda.h"
+	<cassert>
+	<iostream>
+
+1516783046 c:\users\sante.desktop-djcogc4\desktop\albero n-ario con puntatori\coda.h
+
+1517155833 source:c:\users\sante.desktop-djcogc4\desktop\università\algoritmi e strutture dati\esercitazioni in lab svolte\albero n-ario con puntatori\main.cpp
+	<iostream>
+	<stdlib.h>
+	"cella.h"
+	"alberoN.h"
+	"coda.h"
+
+1516874959 c:\users\sante.desktop-djcogc4\desktop\università\algoritmi e strutture dati\esercitazioni in lab svolte\albero n-ario con puntatori\cella.h
+	<iostream>
+
+1518346084 c:\users\sante.desktop-djcogc4\desktop\università\algoritmi e strutture dati\esercitazioni in lab svolte\albero n-ario con puntatori\alberon.h
+	"cella.h"
+	"coda.h"
+	<cassert>
+	<limits.h>
+	<iostream>
+
+1517155295 c:\users\sante.desktop-djcogc4\desktop\università\algoritmi e strutture dati\esercitazioni in lab svolte\albero n-ario con puntatori\coda.h
+

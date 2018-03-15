@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1511437863 source:c:\users\sante.desktop-djcogc4\desktop\lab 6\esercizio 2\dizionari\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"hash_table.h"
+	"dictionary.h"
+	<string>
+
+1511437067 c:\users\sante.desktop-djcogc4\desktop\lab 6\esercizio 2\dizionari\hash_table.h
+	<string>
+	"dictionary.h"
+
+1511432211 c:\users\sante.desktop-djcogc4\desktop\lab 6\esercizio 2\dizionari\dictionary.h
+
+1512083905 source:c:\users\sante.desktop-djcogc4\desktop\dizionari\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"hash_table.h"
+	"dictionary.h"
+	"list_vector.h"
+	<string>
+
+1512084345 c:\users\sante.desktop-djcogc4\desktop\dizionari\hash_table.h
+	<string>
+	"dictionary.h"
+	"list_vector.h"
+
+1511432211 c:\users\sante.desktop-djcogc4\desktop\dizionari\dictionary.h
+
+1512056642 c:\users\sante.desktop-djcogc4\desktop\dizionari\list_vector.h
+	"linear_list.h"
+
+1512056642 c:\users\sante.desktop-djcogc4\desktop\dizionari\linear_list.h
+	<iostream>
+
+1516872553 source:c:\users\sante.desktop-djcogc4\desktop\università\algoritmi e strutture dati\esercitazioni in lab svolte\lab 8\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"hash_table.h"
+	"dictionary.h"
+	"list_vector.h"
+	<string>
+
+1516872553 c:\users\sante.desktop-djcogc4\desktop\università\algoritmi e strutture dati\esercitazioni in lab svolte\lab 8\hash_table.h
+	<string>
+	"dictionary.h"
+	"list_vector.h"
+
+1511432211 c:\users\sante.desktop-djcogc4\desktop\università\algoritmi e strutture dati\esercitazioni in lab svolte\lab 8\dictionary.h
+
+1512056642 c:\users\sante.desktop-djcogc4\desktop\università\algoritmi e strutture dati\esercitazioni in lab svolte\lab 8\list_vector.h
+	"linear_list.h"
+
+1512056642 c:\users\sante.desktop-djcogc4\desktop\università\algoritmi e strutture dati\esercitazioni in lab svolte\lab 8\linear_list.h
+	<iostream>
+
+1518259492 source:c:\users\sante.desktop-djcogc4\desktop\università\algoritmi e strutture dati\esercitazioni in lab svolte\dizionari\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"hash_table.h"
+	"dictionary.h"
+	"list_vector.h"
+	<string>
+
+1518259763 c:\users\sante.desktop-djcogc4\desktop\università\algoritmi e strutture dati\esercitazioni in lab svolte\dizionari\hash_table.h
+	<string>
+	"dictionary.h"
+	"list_vector.h"
+
+1511432211 c:\users\sante.desktop-djcogc4\desktop\università\algoritmi e strutture dati\esercitazioni in lab svolte\dizionari\dictionary.h
+
+1512056642 c:\users\sante.desktop-djcogc4\desktop\università\algoritmi e strutture dati\esercitazioni in lab svolte\dizionari\list_vector.h
+	"linear_list.h"
+
+1512056642 c:\users\sante.desktop-djcogc4\desktop\università\algoritmi e strutture dati\esercitazioni in lab svolte\dizionari\linear_list.h
+	<iostream>
+

@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1510312995 source:c:\users\sante.desktop-djcogc4\desktop\lab 6\esercizio 2\esercizio2\main.cpp
+	<iostream>
+	<stdlib.h>
+	"multiple_stack.h"
+
+1509790659 source:c:\users\sante.desktop-djcogc4\desktop\lab 6\esercizio 2\esercizio2\multiple_stack.cpp
+	<iostream>
+	"multiple_stack.h"
+
+1510256488 c:\users\sante.desktop-djcogc4\desktop\lab 6\esercizio 2\esercizio2\multiple_stack.h
+	<iostream>
+	<stdlib.h>
+	<vector>
+	"stack.h"
+
+1510252146 c:\users\sante.desktop-djcogc4\desktop\lab 6\esercizio 2\esercizio2\stack.h
+	<iostream>
+
+1510312995 source:c:\users\sante.desktop-djcogc4\desktop\università\algoritmi e strutture dati\esercitazioni in lab svolte\lab 6\esercizio 2\esercizio2\main.cpp
+	<iostream>
+	<stdlib.h>
+	"multiple_stack.h"
+
+1510256488 c:\users\sante.desktop-djcogc4\desktop\università\algoritmi e strutture dati\esercitazioni in lab svolte\lab 6\esercizio 2\esercizio2\multiple_stack.h
+	<iostream>
+	<stdlib.h>
+	<vector>
+	"stack.h"
+
+1510252146 c:\users\sante.desktop-djcogc4\desktop\università\algoritmi e strutture dati\esercitazioni in lab svolte\lab 6\esercizio 2\esercizio2\stack.h
+	<iostream>
+
+1509790659 source:c:\users\sante.desktop-djcogc4\desktop\università\algoritmi e strutture dati\esercitazioni in lab svolte\lab 6\esercizio 2\esercizio2\multiple_stack.cpp
+	<iostream>
+	"multiple_stack.h"
+

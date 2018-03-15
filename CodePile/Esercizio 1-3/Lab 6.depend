@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1509788273 source:c:\users\sante.desktop-djcogc4\desktop\lab 6\coda..cpp
+
+1509788104 source:c:\users\sante.desktop-djcogc4\desktop\lab 6\main.cpp
+	<iostream>
+	"coda..cpp"
+	<stdlib.h>
+
+1509788273 c:\users\sante.desktop-djcogc4\desktop\lab 6\coda..cpp
+

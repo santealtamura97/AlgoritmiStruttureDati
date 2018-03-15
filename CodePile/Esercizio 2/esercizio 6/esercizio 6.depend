@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1510934786 source:c:\users\sante.desktop-djcogc4\desktop\lab 6\esercizio 2\esercizio 6\main.cpp
+	<iostream>
+	<stdlib.h>
+	"funzioni.h"
+
+1510934696 source:c:\users\sante.desktop-djcogc4\desktop\lab 6\esercizio 2\esercizio 6\funzioni.cpp
+	<iostream>
+	<stdlib.h>
+	"funzioni.h"
+	"pila.h"
+	"lista.h"
+	"Coda.h"
+	<ctype.h>
+
+1510931582 c:\users\sante.desktop-djcogc4\desktop\lab 6\esercizio 2\esercizio 6\funzioni.h
+	"lista.h"
+	"pila.h"
+	"Coda.h"
+
+1510908627 c:\users\sante.desktop-djcogc4\desktop\lab 6\esercizio 2\esercizio 6\lista.h
+	"list_vector.h"
+
+1510908578 c:\users\sante.desktop-djcogc4\desktop\lab 6\esercizio 2\esercizio 6\list_vector.h
+	<iostream>
+
+1510908356 c:\users\sante.desktop-djcogc4\desktop\lab 6\esercizio 2\esercizio 6\pila.h
+	<iostream>
+
+1510916528 c:\users\sante.desktop-djcogc4\desktop\lab 6\esercizio 2\esercizio 6\coda.h
+
+1510934696 source:c:\users\sante.desktop-djcogc4\desktop\università\algoritmi e strutture dati\esercitazioni in lab svolte\lab 6\esercizio 2\esercizio 6\funzioni.cpp
+	<iostream>
+	<stdlib.h>
+	"funzioni.h"
+	"pila.h"
+	"lista.h"
+	"Coda.h"
+	<ctype.h>
+
+1510931582 c:\users\sante.desktop-djcogc4\desktop\università\algoritmi e strutture dati\esercitazioni in lab svolte\lab 6\esercizio 2\esercizio 6\funzioni.h
+	"lista.h"
+	"pila.h"
+	"Coda.h"
+
+1510908627 c:\users\sante.desktop-djcogc4\desktop\università\algoritmi e strutture dati\esercitazioni in lab svolte\lab 6\esercizio 2\esercizio 6\lista.h
+	"list_vector.h"
+
+1510908578 c:\users\sante.desktop-djcogc4\desktop\università\algoritmi e strutture dati\esercitazioni in lab svolte\lab 6\esercizio 2\esercizio 6\list_vector.h
+	<iostream>
+
+1510908356 c:\users\sante.desktop-djcogc4\desktop\università\algoritmi e strutture dati\esercitazioni in lab svolte\lab 6\esercizio 2\esercizio 6\pila.h
+	<iostream>
+
+1510916528 c:\users\sante.desktop-djcogc4\desktop\università\algoritmi e strutture dati\esercitazioni in lab svolte\lab 6\esercizio 2\esercizio 6\coda.h
+
+1510934797 source:c:\users\sante.desktop-djcogc4\desktop\università\algoritmi e strutture dati\esercitazioni in lab svolte\lab 6\esercizio 2\esercizio 6\main.cpp
+	<iostream>
+	<stdlib.h>
+	"funzioni.h"
+

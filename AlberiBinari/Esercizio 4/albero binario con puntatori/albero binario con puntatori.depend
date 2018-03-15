@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1513802073 source:c:\users\sante.desktop-djcogc4\desktop\lab 6\esercizio 2\albero binario con puntatori\main.cpp
+	<iostream>
+	<stdlib.h>
+	"alberobinario.h"
+	"cella.h"
+
+1513801962 c:\users\sante.desktop-djcogc4\desktop\lab 6\esercizio 2\albero binario con puntatori\alberobinario.h
+	<iostream>
+	"cella.h"
+
+1513672812 c:\users\sante.desktop-djcogc4\desktop\lab 6\esercizio 2\albero binario con puntatori\cella.h
+
+1516384248 source:c:\users\sante.desktop-djcogc4\desktop\università\algoritmi e strutture dati\esercitazioni in lab svolte\lab 9\esercizio 4\albero binario con puntatori\main.cpp
+	<iostream>
+	<stdlib.h>
+	"alberobinario.h"
+	"cella.h"
+	"esonero10gennaio.h"
+
+1516384207 c:\users\sante.desktop-djcogc4\desktop\università\algoritmi e strutture dati\esercitazioni in lab svolte\lab 9\esercizio 4\albero binario con puntatori\alberobinario.h
+	<iostream>
+	"cella.h"
+
+1513948005 c:\users\sante.desktop-djcogc4\desktop\università\algoritmi e strutture dati\esercitazioni in lab svolte\lab 9\esercizio 4\albero binario con puntatori\cella.h
+
+1516383159 c:\users\sante.desktop-djcogc4\desktop\università\algoritmi e strutture dati\esercitazioni in lab svolte\lab 9\esercizio 4\albero binario con puntatori\esonero10gennaio.h
+	"alberobinario.h"
+
+1517005121 source:c:\users\sante.desktop-djcogc4\desktop\università\algoritmi e strutture dati\esercitazioni in lab svolte\alberi binari\esercizio 4\albero binario con puntatori\main.cpp
+	<iostream>
+	<stdlib.h>
+	"alberobinario.h"
+	"cella.h"
+
+1518346179 c:\users\sante.desktop-djcogc4\desktop\università\algoritmi e strutture dati\esercitazioni in lab svolte\alberi binari\esercizio 4\albero binario con puntatori\alberobinario.h
+	<iostream>
+	"cella.h"
+	<limits.h>
+	<vector>
+
+1513948005 c:\users\sante.desktop-djcogc4\desktop\università\algoritmi e strutture dati\esercitazioni in lab svolte\alberi binari\esercizio 4\albero binario con puntatori\cella.h
+
