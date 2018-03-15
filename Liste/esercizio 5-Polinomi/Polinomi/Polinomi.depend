@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1511533487 source:c:\users\sante.desktop-djcogc4\desktop\lab 6\esercizio 2\polinomi\main.cpp
+	<iostream>
+	<cstdlib>
+	"list_vector.h"
+	"polinomio.h"
+
+1511533399 c:\users\sante.desktop-djcogc4\desktop\lab 6\esercizio 2\polinomi\list_vector.h
+	"linear_list.h"
+
+1511455321 c:\users\sante.desktop-djcogc4\desktop\lab 6\esercizio 2\polinomi\linear_list.h
+	<iostream>
+
+1511533575 c:\users\sante.desktop-djcogc4\desktop\lab 6\esercizio 2\polinomi\polinomio.h
+	"list_vector.h"
+
+1511812653 source:c:\users\sante.desktop-djcogc4\desktop\università\algoritmi e strutture dati\esercitazioni in lab svolte\lab 7\esercizio 5-polinomi\polinomi\main.cpp
+	<iostream>
+	<cstdlib>
+	"list_vector.h"
+	"polinomio.h"
+
+1511807550 c:\users\sante.desktop-djcogc4\desktop\università\algoritmi e strutture dati\esercitazioni in lab svolte\lab 7\esercizio 5-polinomi\polinomi\list_vector.h
+	"linear_list.h"
+
+1511455321 c:\users\sante.desktop-djcogc4\desktop\università\algoritmi e strutture dati\esercitazioni in lab svolte\lab 7\esercizio 5-polinomi\polinomi\linear_list.h
+	<iostream>
+
+1512084528 c:\users\sante.desktop-djcogc4\desktop\università\algoritmi e strutture dati\esercitazioni in lab svolte\lab 7\esercizio 5-polinomi\polinomi\polinomio.h
+	"list_vector.h"
+	<cmath>
+	<cstdlib>
+
+1511812653 source:c:\users\sante.desktop-djcogc4\desktop\università\algoritmi e strutture dati\esercitazioni in lab svolte\liste\esercizio 5-polinomi\polinomi\main.cpp
+	<iostream>
+	<cstdlib>
+	"list_vector.h"
+	"polinomio.h"
+
+1511807550 c:\users\sante.desktop-djcogc4\desktop\università\algoritmi e strutture dati\esercitazioni in lab svolte\liste\esercizio 5-polinomi\polinomi\list_vector.h
+	"linear_list.h"
+
+1511455321 c:\users\sante.desktop-djcogc4\desktop\università\algoritmi e strutture dati\esercitazioni in lab svolte\liste\esercizio 5-polinomi\polinomi\linear_list.h
+	<iostream>
+
+1512084528 c:\users\sante.desktop-djcogc4\desktop\università\algoritmi e strutture dati\esercitazioni in lab svolte\liste\esercizio 5-polinomi\polinomi\polinomio.h
+	"list_vector.h"
+	<cmath>
+	<cstdlib>
+
