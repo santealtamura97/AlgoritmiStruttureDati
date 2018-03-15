@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1517044443 source:c:\users\sante.desktop-djcogc4\desktop\università\algoritmi e strutture dati\esercitazioni in lab svolte\codepriorita\main.cpp
+	<iostream>
+	"codaP.h"
+
+1517138228 c:\users\sante.desktop-djcogc4\desktop\università\algoritmi e strutture dati\esercitazioni in lab svolte\codepriorita\codap.h
+	"assert.h"
+
