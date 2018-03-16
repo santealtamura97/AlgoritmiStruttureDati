@@ -2,6 +2,7 @@
 #include "codaP.h"
 using namespace std;
 
+//questa e' la procedura principale
 int main()
 {
     CodaP < int > C;
