@@ -3,3 +3,6 @@ Questa è un'implementazione in c++ di alcune strutture di dati più utilizzate 
 
 ATTENZIONE: Questi programmi potrebbero non essere funzionanti al 100%, è bene dunque apportare modifiche ove necessario.Si può anche apportare modifiche a parti di codice che non si ritengono buone da parte del programmatore.
 
+Altamura Sante ha editato questo file.
+
+Firma:Sante Altamura
