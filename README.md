@@ -5,4 +5,3 @@ ATTENZIONE: Questi programmi potrebbero non essere funzionanti al 100%, è bene 
 
 Altamura Sante ha editato questo file.
 
-Firma:Sante Altamura
